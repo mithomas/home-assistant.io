@@ -79,7 +79,7 @@ To talk to Assist, you can either use your phone or a custom device (and use the
 
 ### Some examples to get you started
 
-There are a few example commands to help you get started in [our Sentences starter pack](/voice_control/builtin_sentences/).
+There are a few example commands to help you get started in [our Sentences starter pack](/voice_control/builtin_sentences/). For more inspiration and examples in languages other than English, see [the tests](https://github.com/home-assistant/intents/tree/main/tests) in our [intent code repository](https://github.com/home-assistant/intents).
 
 If you don't get the right response, we recommend you check the Aliases. Sometimes, different household members may call an entity differently. You may say "TV", whereas someone else may say "Television" 
 
