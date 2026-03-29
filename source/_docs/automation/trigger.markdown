@@ -417,7 +417,7 @@ automation:
       to:
 ```
 
-In combination with `for` this will trigger of the entity state has been unchanged for a certain amount of time after it has been set:
+When you combine this with `for`, the automation triggers if the entity state has not changed for a certain amount of time after it was set:
 
 ```yaml
 automation:
